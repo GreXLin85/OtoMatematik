@@ -40,6 +40,6 @@ if(a == "6"):
 m = dikey uzunluk/yatay uzunluk
 """)
 if (a == "7"):
-	kk = input("Karekök bulunacak sayı : ")
+	kk = int(input("Karekök bulunacak sayı : "))
 	kkb = sqrt(kk)
 	print(kkb)
